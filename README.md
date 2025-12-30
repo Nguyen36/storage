@@ -1,3 +1,3 @@
 # storage
 
--Lưu trữ các file cần thiết
+-Nơi lưu trữ các file cần thiết
